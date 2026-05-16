@@ -20,7 +20,7 @@ This project was developed as part of my Web Development Internship at InAmigos 
 A demo video of the project has been attached to showcase the website functionality and design.
 
 ## 🔗 Live Website
-
+https://khetanmaya2-commits.github.io/inamigos_foundation/
 
 ## 📚 What I Learned
 

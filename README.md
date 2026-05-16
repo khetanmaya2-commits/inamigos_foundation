@@ -36,4 +36,4 @@ This project was completed as Task 1 during my internship at InAmigos Foundation
 ## 📩 Contact
 
 Maya Khetan
-LinkedIn: [Add LinkedIn Profile Link]
+LinkedIn:www.linkedin.com/in/maya-khetan1827
